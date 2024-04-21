@@ -1,6 +1,6 @@
 # Workflow
 
-This project was about making the forked project better by implemeting developement workflows and testing.
+This project was about making the forked project better, by implemeting developement workflows and testing.
 
 ## statusbadges
 
