@@ -4,6 +4,8 @@ This project was about making the forked project better by implemeting developem
 
 ## statusbadges
 
+[![Deploy static content to Pages](https://github.com/VeronicaOS/social-media-client/actions/workflows/pages.yml/badge.svg)](https://github.com/VeronicaOS/social-media-client/actions/workflows/pages.yml)
+
 ## :zap: Getting stared
 
 ### Installing:
